@@ -1,0 +1,12 @@
+name: JEMLP_conda_env_format
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.6
+  - pytorch
+  - progressbar2
+  - matplotlib
+prefix: /home/jonathan/anaconda3/envs/JEMLP_conda_env_format
